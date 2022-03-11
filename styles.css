@@ -15,15 +15,6 @@
 
 .statContainer {
     width: 100%;
-    display: flex;
-    justify-content: space-between;
 }
 
-.weekly {
-    width: 40%;
-}
-
-.streak {
-    width: 40%;
-}
-
+ 

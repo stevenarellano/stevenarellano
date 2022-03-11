@@ -1,4 +1,4 @@
-# Hi There! I'm Steven Arellano. Welcome To My Page
+# Hi There👋 I'm Steven Arellano! Welcome To My Page
 
 ## About Me
 
@@ -24,14 +24,10 @@ I'm here to develop personal projects, help professional enterprises, and copmet
 
 ## Track My Coding
 
-<p class="statContainer">
-      <img 
-      class='weekly'
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarellano&theme=dracula" />
-      <img 
-      class='streak'
-      src="https://github-readme-streak-stats.herokuapp.com?user=stevenarellano&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarellano&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenarellano&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **stevenarellano/stevenarellano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
