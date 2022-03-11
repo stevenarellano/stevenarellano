@@ -1,0 +1,14 @@
+.webContainer {
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.webContainer > img {
+    margin: 0.5rem;
+}
+
+.webContainer > div {
+    font-size: 2rem;
+}
