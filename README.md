@@ -22,7 +22,7 @@ I'm here to develop personal projects, help professional enterprises, and copmet
 -   Email: [stevenjarellano2@gmail.com](stevenjarellano2@gmail.com)
 -   Personal Website: [stevenarellano.me](https://www.stevenarellano.me/)
 
-## Track My Coding
+## Track My Coding!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarellano&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
