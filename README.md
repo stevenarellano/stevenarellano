@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5555&center=true&multiline=true&lines=Hello+There+%F0%9F%91%8B++I'm+Steven!)](https://git.io/typing-svg)
+# Hi There! I'm Steven Arellano. Welcome To My Page
 
 ## About Me
 
-### I'm here to develop personal projects, help professional enterprises, and copmete in hackathons! Follow me as I embark on mastering of **web development**, **web3 technologies**, and... **data structures and algorithms**.
+I'm here to develop personal projects, help professional enterprises, and copmete in hackathons! Follow me as I embark on mastering of **web development**, **web3 technologies**, and... **data structures and algorithms**.
 
-## Find me around the web at any of the following
+## Find me around the web at the following
 
 <link rel="stylesheet" href="./styles.css">
 
@@ -24,10 +24,14 @@
 
 ## Track My Coding
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarellano&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenarellano&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<p class="statContainer">
+      <img 
+      class='weekly'
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarellano&theme=dracula" />
+      <img 
+      class='streak'
+      src="https://github-readme-streak-stats.herokuapp.com?user=stevenarellano&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 <!--
 **stevenarellano/stevenarellano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
