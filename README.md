@@ -14,10 +14,10 @@ I'm here to develop personal projects, help professional enterprises, and copmet
 <link rel="stylesheet" href="./styles.css">
 
 <p class='webContainer'>
-    <a href="https://www.linkedin.com/in/stevenjarellano/" target="blank">
+    <a href="https://www.linkedin.com/in/stevenjarellano/" target="_blank">
         <img align="center" src="./logos/linkedin.png" alt="linkedin" height="50" />
     </a>
-    <a href="https://medium.com/@stevenjarellano" target="blank">
+    <a href="https://medium.com/@stevenjarellano" target="_blank">
         <img align="center" src="./logos/medium.png" alt="medium" height="50" />
     </a>
 </p>
