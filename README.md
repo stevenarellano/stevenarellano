@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm here to develop personal projects, help professional enterprises, and compete in hackathons! Follow me as I embark on the mastering of **web development**, **web3 technologies**, and... **data structures and algorithms**.
+I'm here to develop personal projects, help professional enterprises, and compete in hackathons! Follow me as I embark on the mastering of **web development**, **web3 technologies**, and **data structures and algorithms**.
 
 ## Check out what I'm currently working on 🛰️
 
@@ -19,9 +19,9 @@ I'm here to develop personal projects, help professional enterprises, and compet
     </a>
     <a href="https://medium.com/@stevenjarellano" target="_blank">
         <img align="center" src="./logos/medium.png" alt="medium" height="50" />
-    </a>
+    </a>  
 </p>
-
+ 
 ## Other Info
 
 -   Email: [stevenjarellano2@gmail.com](stevenjarellano2@gmail.com)
