@@ -7,7 +7,6 @@ I'm here to develop personal projects, help professional enterprises, and compet
 ## Check out what I'm currently working on 🛰️
 
 -   [voting app](https://github.com/stevenarellano/voting) - Decentralized application for hosting compeitions and voting events
--   [fractal fantasy](https://github.com/BlockchainDeveloper009/nextjsfractalfantasy_devbranch) - Website for upcoming NFT project which verifies NFTs and hosts the game
 
 ## Find me around the web at the following
 
