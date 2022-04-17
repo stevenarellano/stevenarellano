@@ -6,7 +6,7 @@ I'm here to develop personal projects, help professional enterprises, and compet
 
 ## Check out what I'm currently working on 🛰️
 
--   [voting app](https://github.com/stevenarellano/voting) - Decentralized application for hosting compeitions and voting events
+-   [o2](https://github.com/stevenarellano/o2) - A compiler made with rust
 
 ## Find me around the web at the following
 
