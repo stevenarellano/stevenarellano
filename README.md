@@ -6,7 +6,7 @@ I'm here to develop personal projects, help professional enterprises, and compet
 
 ## Check out what I'm currently working on 🛰️
 
--   [o2](https://github.com/stevenarellano/o2) - A compiler made with rust
+-   [poker-hand](https://github.com/stevenarellano/poker-hand) - Rust microservice for finding out what poker hand you have. Part of a bigger web3 project for a decentralized poker platform.
 
 ## Find me around the web at the following
 
@@ -28,7 +28,7 @@ I'm here to develop personal projects, help professional enterprises, and compet
  
 ## Track My Coding!
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarellano&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarellano&theme=dracula&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenarellano&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
