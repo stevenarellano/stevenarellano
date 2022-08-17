@@ -6,7 +6,7 @@ I'm here to develop personal projects, help professional enterprises, and compet
 
 ## Check out what I'm currently working on 🛰️
 
--   [poker-hand](https://github.com/stevenarellano/poker-hand) - Rust microservice for finding out what poker hand you have. Part of a bigger web3 project for a decentralized poker platform.
+-   [resume-book](https://github.com/resume-book) - Software as a service offering a way for organization to share their members skills with potential recruiters.
 -   [terra-finder](https://github.com/stevenarellano/terra-finder) - A clone of terra finder that allows one to search terra accounts.
 
 ## Find me around the web at the following
