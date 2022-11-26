@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm here to develop personal projects, help professional enterprises, and compete in hackathons! Follow me as I embark on the mastering of **web development**, **web3 technologies**, and **data structures and algorithms**.
+I'm here to develop personal projects, help professional enterprises, and compete in hackathons! Follow me as I embark on the mastering of **web development**, the **IoT**, and **data structures and algorithms**.
 
 ## Check out what I'm currently working on 🛰️
 
