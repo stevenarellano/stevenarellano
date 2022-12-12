@@ -6,8 +6,8 @@ I'm here to develop personal projects, help professional enterprises, and compet
 
 ## Check out what I'm currently working on 🛰️
 
--   [resume-book](https://github.com/resume-book) - Software as a service offering a way for organization to share their members skills with potential recruiters.
--   [terra-finder](https://github.com/stevenarellano/terra-finder) - A clone of terra finder that allows one to search terra accounts.
+-   [FreeFinder]([https://github.com/resume-book](https://github.com/FreeFinder)) - A swift IOS mobile app used to find free items around the UChicago campus.
+-   [presentation-station](https://github.com/presentation-station) - An AI-powered presentation generating web application.
 
 ## Find me around the web at the following
 
