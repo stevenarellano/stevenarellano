@@ -6,7 +6,7 @@ I'm here to develop personal projects, help professional enterprises, and compet
 
 ## Check out what I'm currently working on 🛰️
 
--   [FreeFinder]([https://github.com/resume-book](https://github.com/FreeFinder)) - A swift IOS mobile app used to find free items around the UChicago campus.
+-   [FreeFinder](https://github.com/orgs/FreeFinder/repositories) - A swift IOS mobile app used to find free items around the UChicago campus.
 -   [presentation-station](https://github.com/presentation-station) - An AI-powered presentation generating web application.
 
 ## Find me around the web at the following
