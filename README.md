@@ -8,6 +8,7 @@ I'm here to develop personal projects, help professional enterprises, and compet
 
 -   [FreeFinder](https://github.com/orgs/FreeFinder/repositories) - A swift IOS mobile app used to find free items around the UChicago campus.
 -   [presentation-station](https://github.com/presentation-station) - An AI-powered presentation generating web application.
+-   [Machine Learning Specialization by DeepLearning.AI](https://www.coursera.org/specializations/machine-learning-introduction?) - Online course teaching fundamental AI concepts and skills.
 
 ## Find me around the web at the following
 
