@@ -6,7 +6,7 @@ I'm here to develop personal projects, help professional enterprises, and compet
 
 ## Check out what I'm currently working on 🛰️
 
--   [Machine Learning Specialization by DeepLearning.AI](https://www.coursera.org/specializations/machine-learning-introduction?) - Online course teaching fundamental AI concepts and skills.
+-   Hazard Detection (private) - An object detection app.
 
 ## Find me around the web at the following
 
