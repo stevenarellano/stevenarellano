@@ -1,12 +1,8 @@
-# Hi There👋 I'm Steven Arellano! Welcome To My Page
+# hi. i'm steve
 
-## About Me
+## about me
 
-I'm here to develop personal projects, help professional enterprises, and compete in hackathons! Follow me as I embark on the mastering of **app development**, the **IoT**, and **data structures and algorithms**.
-
-## Check out what I'm currently working on 🛰️
-
--   Hazard Detection (private) - An object detection app.
+i'm here to practice my skills!
 
 ## Find me around the web at the following
 
@@ -23,8 +19,8 @@ I'm here to develop personal projects, help professional enterprises, and compet
  
 ## Other Info
 
--   Email: [stevenjarellano2@gmail.com](stevenjarellano2@gmail.com)
--   Personal Website: [stevenarellano.me](https://www.stevenarellano.me/)
+-   email: [stevenjarellano2@gmail.com](stevenjarellano2@gmail.com)
+-   personal website: [stevenarellano.xyz](https://www.stevenarellano.xyz/)
  
 ## Track My Coding!
  
