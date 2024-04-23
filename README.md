@@ -19,7 +19,6 @@ i'm here to practice my skills!
  
 ## Other Info
 
--   email: [stevenjarellano2@gmail.com](stevenjarellano2@gmail.com)
 -   personal website: [stevenarellano.xyz](https://www.stevenarellano.xyz/)
  
 ## Track My Coding!
