@@ -1,4 +1,4 @@
-# hi. i'm steve
+# steven arellano
 
 ## about me
 
@@ -12,18 +12,11 @@ i'm here to practice my skills!
     <a href="https://www.linkedin.com/in/stevenjarellano/" target="_blank">
         <img src="./logos/linkedin.png" alt="linkedin" height="50" />
     </a>
-    <a href="https://medium.com/@stevenjarellano" target="_blank">
-        <img src="./logos/medium.png" alt="medium" height="50" />
-    </a>  
 </p>
  
 ## Other Info
 
 -   personal website: [stevenarellano.xyz](https://www.stevenarellano.xyz/)
- 
-## Track My Coding!
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarellano&theme=dracula&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **stevenarellano/stevenarellano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
