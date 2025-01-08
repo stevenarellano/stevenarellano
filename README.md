@@ -2,7 +2,7 @@
 
 ## about me
 
-i'm here to practice my skills!
+practicing my skills
 
 ## Find me around the web at the following
 
