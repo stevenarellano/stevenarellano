@@ -1,10 +1,8 @@
 # steven arellano
 
-## about me
+practicing my skills; my site: [stevenarellano.xyz](https://www.stevenarellano.xyz/)
 
-practicing my skills
-
-## Find me around the web at the following
+## around the web
 
 <link rel="stylesheet" href="./styles.css">
 
@@ -13,10 +11,7 @@ practicing my skills
         <img src="./logos/linkedin.png" alt="linkedin" height="50" />
     </a>
 </p>
- 
-## Other Info
 
--   personal website: [stevenarellano.xyz](https://www.stevenarellano.xyz/)
 
 <!--
 **stevenarellano/stevenarellano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
